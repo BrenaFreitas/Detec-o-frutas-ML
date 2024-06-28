@@ -9,3 +9,12 @@ O método de pesquisa utilizado envolve a coleta e rotulação de um conjunto de
 - Fruits Classification (https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification/data)
 - Orange (https://www.kaggle.com/datasets/erbuelebi/orange-dataset)
 - Orange (https://www.kaggle.com/datasets/jonathansilva2020/orange-diseases-dataset/data)
+
+## Instruções para execução local 
+
+1. Deve-se instalar o Python e o Anaconda na máquina local.
+2. É necessário ter todas as dependências instaladas.
+   
+```
+pip install -r requirements.txt
+```
