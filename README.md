@@ -18,3 +18,10 @@ O método de pesquisa utilizado envolve a coleta e rotulação de um conjunto de
 ```
 pip install -r requirements.txt
 ```
+
+## Para conectar ao servidor ao MLflow
+
+```
+mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./mlruns --host 0.0.0.0 --port 5000
+
+```
